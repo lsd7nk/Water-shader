@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638023176176326774
-    m_Hash: 2399984264
+      ticks: 638027396892396313
+    m_Hash: 1234881231
   m_LockFileStatus:
     m_FilePath: E:/Unity/Unity Project/Shaders/src/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638023176190820436
-    m_Hash: 2274129395
+      ticks: 638027396892396313
+    m_Hash: 278403971
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

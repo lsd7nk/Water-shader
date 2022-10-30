@@ -112,7 +112,7 @@ Material:
     - _EnvironmentReflections: 1
     - _Fresnel: 1
     - _FresnelPower: 1
-    - _Fresnel_lerp_value: 0.8
+    - _Fresnel_lerp_value: 0.95
     - _Fresnel_power: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -137,7 +137,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0, g: 0.12666857, b: 0.32941177, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _DepthWater: {r: 0, g: 0.33240128, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Normal_Tiling: {r: 0.04, g: 0.71, b: 0, a: 0}
